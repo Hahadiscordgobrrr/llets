@@ -87,7 +87,7 @@ class Upgrade
                 default:
                     break;
             }
-            this.level++;
+            this.level++10;
             return true;
         }
         else
